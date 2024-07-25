@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RaiseWayne
+- 👀 I’m interested in Chemistry & Technology.
+- 🌱 I’m currently learning Android development and Machine Learning.
