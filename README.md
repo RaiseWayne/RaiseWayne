@@ -1,11 +1,8 @@
-- Hi, I’m @RaiseWayne
+- Hi, I’m @Archie
 - I’m interested in Chemistry & Technology.
-- I’m currently learning Android development and Machine Learning.
 
 Projects I am currently working on:
-1. Fizmo (A Daily Finance Managemnt Gizmo) - Java
-2. CJ (A College Journal Application) - Java
-3. PlotR (An Application fo plotting data) - Python
+1. PlotR (An Application fo plotting data) - Python
 
 My future plans
 1. A molecular weight calculator
